@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    color: red;
+
+    border:solid;
+}
+
+.grid{
+    text-align: center;
+}
+
+.item{
+    width: 2000px;
+    align-items: center;
+}
+
+.dsd{
+   
+}
+
+.dsd1{
+   
+}
+
+.main{
+    
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+
+}
+
+.image{
+    width:1%;
+    height: 1%;
+}
